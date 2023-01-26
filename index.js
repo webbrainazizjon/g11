@@ -4,3 +4,5 @@
 // console.log(`hello ${name}`);
 
 
+let name = 'hello'
+console.log(`hello ${neme}`);
