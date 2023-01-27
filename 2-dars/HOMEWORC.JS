@@ -1,4 +1,4 @@
-// ================ HOMEVORC
+// ================ HOMEVORC ===============
 // let a = 1;
 // let b = 1;
 // let c = ++a;// bunda javob 2 chiqadi a 1ga teng ++a qilganimizda ++ 1ga oshirib beradi
