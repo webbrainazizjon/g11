@@ -105,3 +105,21 @@
 // let id = true
 // let face = true
 // console.log(id && face);
+
+
+
+// ================================
+
+// let ar = ["Muhammad", 12, "Iqboljon"]; // index
+// let obj = { name: "webbrain", status: "IT Center" }; // key
+// let func = () => {};
+// function test() {
+//   console.log(ar[0]);
+//   console.log(obj.name);
+// }
+
+// test();
+
+// console.log(typeof func);
+
+// console.log(typeof Object);
