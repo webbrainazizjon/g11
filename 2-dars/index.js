@@ -6,8 +6,8 @@
 // console.log(a * b);
 // console.log(+a - b);
 
-// let a = "10"
-// let b = "10.3"
+// let a = "10";
+// let b = "10.3";
 
 
 // console.log(Number(b));
