@@ -21,13 +21,13 @@
 // console.log("-9" +5);//bunda stringga 5 qo'shilyabdi -95 chiqyabdi chunki -string bor
 // console.log("-9" -5);// bunda -9 -5 qo'shilyabdi -14 chiqadi chunki ikkalsida ham bir xil belgi bor
 // console.log(null + 1);// bunda null 0ga teng shunda 1ni o'zi qoladi => 1
-// console.log(undefined + 1);// bunfda unda 1ga bo'linmaydi chunki unda qiymatga ega emas javob => NaN
+// console.log(undefined + 1);// bunda undefined 1ga bo'linmaydi chunki undefined qiymatga ega emas javob => NaN
 // console.log("\t\n" -2); bunda 1chi qiymat string 2ga bo'linmaydi shunda => -2
 
 
 // console.log(5>4); //bunda true chiqadi chunki 5 4dan katta
 // console.log("apple">"pineapple");// bunda a dan p katta shuning uchun false chiqadi
-// console.log("2">"12");bunda ham 2da 1katta shuning uchun true chiqadi
+// console.log("2">"12");bunda ham 2 1dan katta shuning uchun true chiqadi
 // console.log(undefined == null);// bunda ikkala qiymat ham 0ga teng shuning uchun true bo'ladi
 // console.log(undefined === null);// bunda qiymatlarning taypiga qaraladi ikkalasi boshqa boshqa data turiga kiradi falsebo'ladi
 // console.log(null == "\n0\n");//bunda 2chi qiymat string bo'lyabdi shuning uchun false qaytaradi
