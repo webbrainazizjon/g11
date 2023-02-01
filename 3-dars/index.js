@@ -3,6 +3,7 @@
 //     console.log("Havo issiq");
 // }
 
+
 // if (true) {
 //     console.log("Havo so'vuq");
 // }
