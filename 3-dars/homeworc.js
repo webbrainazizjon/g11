@@ -5,13 +5,13 @@
 // }
 
 
-// let ad = 11;
+// let ad = 2;
 
-// if(ad > 10){
+// if(ad > 1){
 //     console.log(1);
-// } else if(ad > 5){
+// } else if(ad < 0){
 //     console.log(-1);
-// }else if(ad < 1){
+// }else if(ad == 0){
 //     console.log(0);
 // }
 
@@ -31,6 +31,10 @@
 //     console.log('Over');
 // }
 
+
+// let login = "Employe"
+// login = "Director"
+// login = ''
 // if(login == "Employe") console.log("Hello");
 // else if(login == "Director") console.log("Greetings");
 // else if(login == '') console.log("no login");
@@ -38,5 +42,3 @@
 
 
 // login == "Employe"? console.log("Hello"): console.log("Greetings");
-// login == "Employe"? console.log("Hello"): console.log("Greetings");
-
