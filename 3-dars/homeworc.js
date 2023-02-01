@@ -42,5 +42,5 @@
 // else if(login == '') console.log("no login");
 // else console.log('');
 
-
-// login == "Employe"? console.log("Hello"): console.log("Greetings");
+let login = "Employe"
+login == "Employe"? console.log("Hello"): console.log("Greetings");
