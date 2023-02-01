@@ -5,7 +5,9 @@
 // }
 
 
-// let ad = 2;
+// let ad = 2
+// ad = -1
+// ad =0
 
 // if(ad > 1){
 //     console.log(1);
