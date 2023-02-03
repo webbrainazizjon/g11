@@ -54,7 +54,7 @@
 //   for (j = 1; j <= 10; j++) {
 //     console.log(j);
 //   }
-//   //   console.log(i);
+//     console.log(i);
 // }
 
 // 2lik karra jadvali
