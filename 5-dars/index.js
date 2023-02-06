@@ -13,15 +13,18 @@
 // let id = 1;
 // console.log(id);
 
+//==================function declaration
 // function getAvr() {
 //   console.log("Abdulloh, Welcome to Webbrain");
 // }
 
+//==================function Expression
 // const getAvr = function () {
 //   console.log("Abdulloh, Welcome to Webbrain");
 // };
 // getAvr();
 
+//==================Arrow function
 // const getAvr =()=>{}
 
 // let name = 'webbrain'
