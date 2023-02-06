@@ -14,8 +14,6 @@
 //// number 2!
 //// number 3! chiqadi
 
-
-
 // function chackAge(age) {
 //     if (age > 18) {
 //         return console.log(true);
@@ -26,7 +24,6 @@
 // }
 
 // chackAge(20)
-
 
 // function chackAge(age) {
 //     if (age >18) {
@@ -52,8 +49,6 @@
 // }
 
 // chackAge(19)
-
-
 
 // chackAge()
 
@@ -93,7 +88,6 @@
 // }
 // kk(1, 1);
 // min(1,1) == 1
-
 
 // function x(a, b) {
 //     return console.log(a ** b);
