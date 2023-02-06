@@ -114,13 +114,14 @@
 // x(1, 100);
 // pow(1, 100) = 1 * 1 * 1 = 1;
 
-let ask = function(question, yes, no) {
-    if (condition(question)) yes();
-    else no();
-}
+// let ask = function(question, yes, no) {
+//     if (condition(question)) yes();
+//     else no();
+// }
 
-ask(
-    "Do you agree?",
-    function() {console.log("You agreed.");},
-    function() {console.log("You canceled the execution.");}
-);
+// ask(
+//     "Do you agree?",
+//     function() {console.log("You agreed.");},
+//     function() {console.log("You canceled the execution.");}
+// );
+
