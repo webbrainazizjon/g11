@@ -71,8 +71,3 @@
 // console.log(account.surname);
 // console.log(account["name"]);
 
-
-
-let name = "webbbrain akademy"
- let user = {id: 1, name: 1}
- console.log(user["name"]);

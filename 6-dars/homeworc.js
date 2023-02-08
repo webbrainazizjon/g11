@@ -7,6 +7,7 @@
 //  delete user.name
 // console.log(user);
 
+
 // let salaries = {
 //     John:100,
 //     Ann:160,
