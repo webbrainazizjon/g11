@@ -8,7 +8,7 @@
 // // let ov = res1 - res2
 // let on= arr.push(res1 - res2);
 // console.log(on.push());
-// [11,23,14,23,12]
+let arr =[11,23,14,23,12]
 // [11,14,12]
 // [11,2]
 // [9]
