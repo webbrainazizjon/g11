@@ -1,19 +1,16 @@
-let users = [
-    { id: 1, year: 2002, name: "Iqboljon Yuldashev" },
-    { id: 2, year: 2000, name: "Asilbek Topilov" },
-    { id: 3, year: 2002, name: "Najmiddin Nazarov " },
-    { id: 4, year: 2002, name: "Mominov Abdulloh" },
-    { id: 5, year: 1995, name: "Sardor Tursunboyev" },
-    { id: 6, year: 2002, name: "Azizbek Ziyoviddinov " },
-    { id: 7, year: 2007, name: "Muhammad Nurmirzayev" },
-    { id: 8, year: 2002, name: "Shukurov Shohruh" },
-  ];
+// let users = [
+//     { id: 1, year: 2002, name: "Iqboljon Yuldashev" },
+//     { id: 2, year: 2000, name: "Asilbek Topilov" },
+//     { id: 3, year: 2002, name: "Najmiddin Nazarov " },
+//     { id: 4, year: 2002, name: "Mominov Abdulloh" },
+//     { id: 5, year: 1995, name: "Sardor Tursunboyev" },
+//     { id: 6, year: 2002, name: "Azizbek Ziyoviddinov " },
+//     { id: 7, year: 2007, name: "Muhammad Nurmirzayev" },
+//     { id: 8, year: 2002, name: "Shukurov Shohruh" },
+//   ];
   
-  updateUser({ id: 3, key: "name", value: "Guli" });
-  // update
-  const uptade =(id)=>{
-    console.log(users.id = id.updateUser)
-  }
+  // updateUser({ id: 3, key: "name", value: "Guli" });
+  // // update
   //   const updateUser = ({ id, key, value }) => {
   //   let res = users.map(
   //     (usr) => (usr.id === id ? { ...usr, [key]: value } : "hey")
@@ -22,9 +19,6 @@ let users = [
   //   console.log(res);
   //   return (students = res);
   // };
-  
-  
-
 
 
   // sprite
