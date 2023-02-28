@@ -100,8 +100,8 @@
 
 // console.log(func);
 
-let id1 = Symbol("id");
-let id2 = Symbol("id");
+// let id1 = Symbol("id");
+// let id2 = Symbol("id");
 
 // console.log(id1);
 // console.log(id1 === id2);
@@ -162,14 +162,14 @@ let id2 = Symbol("id");
 
 // console.log(obj);
 
-const obj = {
-  name: "webbrain",
-  age: 2345,
-};
+// const obj = {
+//   name: "webbrain",
+//   age: 2345,
+// };
 
 // console.log({ obj, name: "IT center" });
-console.log({ name: "IT center", ...obj });
-console.log({ ...obj, name: "IT center" });
+// console.log({ name: "IT center", ...obj });
+// console.log({ ...obj, name: "IT center" });
 // console.log({ name: "IT center", age: 2345, name: "webbrain" });
 
 // obj = { ...obj.child };

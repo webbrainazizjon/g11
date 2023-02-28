@@ -8,18 +8,42 @@
 // // let ov = res1 - res2
 // let on= arr.push(res1 - res2);
 // console.log(on.push());
-let arr =[11,23,14,23,12]
-// [11,14,12]
-// [11,2]
-// [9]
 
-function lastNumber(arr) {
-  while (arr.length > 1) {
-    let array = arr.sort((a, b) => a - b);
-    let res = array[array.length - 1] - array[array.length - 2];
-    array.splice(array.length - 2, 2);
-    res ? array.push(res) : null;
-  }
-  return arr;
-}
-console.log(lastNumber([11, 14, 12]));
+
+
+// let arr =[11,23,14,23,12]
+// // [11,14,12]
+// // [11,2]
+// // [9]
+
+// function lastNumber(arr) {
+//   while (arr.length > 1) {
+//     let array = arr.sort((a, b) => a - b);
+//     let res = array[array.length - 1] - array[array.length - 2];
+//     array.splice(array.length - 2, 2);
+//     res ? array.push(res) : null;
+//   }
+//   return arr;
+// }
+// console.log(lastNumber([11, 14, 12]));
+
+// let obj = {
+//     title: "webbrain",
+//     age: 5,
+//     child: {
+//         age: 4,
+//         name: "webbrain",
+//         child: {
+//             age: 3
+//         }
+//     }
+// }
+
+
+
+// let sum = 0;
+//  while(obj){
+//    sum+=obj.age;
+//    obj=obj.child;
+//  }
+//  console.log(sum);
