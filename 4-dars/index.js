@@ -11,6 +11,7 @@
 // console.log(0 ?? 1);
 
 // if -> <,>,<=,>=, ==, ===
+
 // switch -> ===
 // let data = "bulut";
 // switch (data) {
