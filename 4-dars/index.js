@@ -27,17 +27,6 @@
 //     console.log("no data");
 // }
 
-// console.log("Hello Muhammad");
-// console.log("Hello Abdulloh");
-// console.log("Hello Abdulloh");
-// console.log("Hello Abdulloh");
-// console.log("Hello Abdulloh");
-// console.log("Hello Abdulloh");
-// console.log("Hello Abdulloh");
-// console.log("Hello Abdulloh");
-// console.log("Hello Abdulloh");
-// console.log("Hello Abdulloh");
-
 // console.log(1);
 // console.log(2);
 // console.log(3);
@@ -57,15 +46,7 @@
 //     console.log(i);
 // }
 
-// 2lik karra jadvali
-// 2 x 1 = 2
-// 2 x 2 = 4
-// 2 x 3 = 6
 
-// 3lik karra jadvali
-// 3 x 1 = 2
-// 3 x 2 = 4
-// 3 x 3 = 6
 
 // outer: for (i = 1; i <= 5; i++) {
 //   console.log(i, "i");

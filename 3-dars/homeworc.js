@@ -44,3 +44,13 @@
 
 // let login = "Employe"
 // login == "Employe"? console.log("Hello"): console.log("Greetings");
+
+
+
+// let login = "Employe"
+// login = "Director"
+// login = ''
+// login == "Employe"? console.log("Hello"):
+// login == "Director"? console.log("Greetings"):
+// login == ''?console.log("no login"):
+//  console.log('');
