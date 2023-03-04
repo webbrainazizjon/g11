@@ -118,4 +118,3 @@
 //     function(yes) {console.log("You agreed.");},
 //     function(no) {console.log("You canceled the execution.");}
 // );
-
