@@ -43,7 +43,7 @@
 //     if (age || 18) {
 //         return console.log(true);
 //     }else{
-        
+        //..
 //        return console.log('Did parents allow you?');
 //     }
 // }
