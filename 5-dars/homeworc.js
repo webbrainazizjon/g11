@@ -7,6 +7,7 @@
 //// number 2! chiqadi 
 // let i = 0
 // while (i < 3) {
+//         i++
 //     console.log(`number ${i}!`);    
 // }
  //// bunda 
@@ -36,14 +37,13 @@
 
 // chackAge()
 
-// let age = 19
+// let age = 20
 // age >18? console.log(true):console.log('Did parents allow you?');
 
 // function chackAge(age) {
 //     if (age || 18) {
 //         return console.log(true);
 //     }else{
-        //..
 //        return console.log('Did parents allow you?');
 //     }
 // }
@@ -64,7 +64,7 @@
 
 // min(2,5) == 2
 
-// function kk(a, b) {
+// function min(a, b) {
 
 //     if (a < b) {
 //         return console.log(a);
@@ -73,10 +73,10 @@
 //         return console.log(b);
 //         }
 // }
-// kk(-1, 3);
-// // min(3,-1) == -1
+// // min(-1, 3);
+// min(3,5,2,4,7,9)// == -1
 
-// function kk(a, b) {
+// function min(a, b) {
 
 //     if (a < b) {
 //         return console.log(a);
@@ -85,28 +85,27 @@
 //         return console.log(b);
 //         }
 // }
-// kk(1, 1);
+// min(1, 1);
 // min(1,1) == 1
 
-// function x(a, b) {
+// function pow(a, b) {
 //     return console.log(a ** b);
 // }
 
-// x(3, 2);
+// pow(3, 2);
 // pow(3, 2) = 3 * 3 = 9;
 
-// function x(a, b) {
+// function pow(a, b) {
 //     return console.log(a ** b);
 // }
-// x(3, 3);
-
+// pow(3, 3);
 // pow(3, 3) = 3 * 3 * 3 = 27;
 
-// function x(a, b) {
+// function pow(a, b) {
 //     return console.log(a ** b);
 // }
-// x(1, 100);
-// pow(1, 100) = 1 * 1 * 1 = 1;
+// pow(100, 2);
+// pow(1, 100)// = 1 * 1 * 1 = 1;
 
 
 // let ask = (question, yes, no)=> {
