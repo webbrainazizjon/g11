@@ -53,7 +53,6 @@
 // chackAge()
 
 // function kk(a, b) {
-
 //     if (a < b) {
 //         return console.log(a);
 //     }
@@ -95,18 +94,20 @@
 
 // x(3, 2);
 // pow(3, 2) = 3 * 3 = 9;
+
 // function x(a, b) {
 //     return console.log(a ** b);
 // }
-
 // x(3, 3);
+
 // pow(3, 3) = 3 * 3 * 3 = 27;
+
 // function x(a, b) {
 //     return console.log(a ** b);
 // }
-
 // x(1, 100);
 // pow(1, 100) = 1 * 1 * 1 = 1;
+
 
 // let ask = (question, yes, no)=> {
 //     if (question) yes();
