@@ -13,14 +13,14 @@
 // let id = 1;
 // console.log(id);
 
-//==================function declaration
+//==================function Expression
 // function getAvr() {
-//   console.log("Abdulloh, Welcome to Webbrain");
+//   console.log("Azizbek, Welcome to Webbrain");
 // }
 
-//==================function Expression
+//==================function declaration 
 // const getAvr = function () {
-//   console.log("Abdulloh, Welcome to Webbrain");
+//   console.log("Azizbek, Welcome to Webbrain");
 // };
 // getAvr();
 
@@ -39,7 +39,7 @@
 // getAvr();
 // getAvr("Najmiddin", "Nazarov", 20);
 // getAvr("Iqboljon", "Iqboljon F", 20);
-// getAvr("Asilebk", "Asilebk F", 20);
+// getAvr("Asilbek", "Asilbek F", 20);
 
 // const telegram = (name, surname = "") => {
 //   if (surname) console.log(name, surname);
