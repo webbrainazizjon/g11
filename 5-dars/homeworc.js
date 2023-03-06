@@ -93,19 +93,19 @@
 // }
 
 // pow(3, 2);
-// pow(3, 2) = 3 * 3 = 9;
+//// pow(3, 2) = 3 * 3 = 9;
 
 // function pow(a, b) {
 //     return console.log(a ** b);
 // }
 // pow(3, 3);
-// pow(3, 3) = 3 * 3 * 3 = 27;
+//// pow(3, 3) = 3 * 3 * 3 = 27;
 
 // function pow(a, b) {
 //     return console.log(a ** b);
 // }
 // pow(100, 2);
-// pow(1, 100)// = 1 * 1 * 1 = 1;
+//// pow(1, 100)// = 1 * 1 * 1 = 1;
 
 
 // let ask = (question, yes, no)=> {
