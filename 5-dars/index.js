@@ -22,7 +22,7 @@
 // const getAvr = function () {
 //   console.log("Azizbek, Welcome to Webbrain");
 // };
-// getAvr();
+// getAvr(); // Argument
 
 //==================Arrow function
 // const getAvr =()=>{}

@@ -106,7 +106,7 @@
 //     return console.log(a ** b);
 // }
 // pow(100, 2);
-//// pow(1, 100)// = 1 * 1 * 1 = 1;
+// // pow(1, 100)// = 1 * 1 * 1 = 1;
 
 
 // let ask = (question, yes, no)=> {
