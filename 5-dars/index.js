@@ -14,19 +14,20 @@
 // console.log(id);
 
 //==================function Expression
-// function getAvr() {
+// function funExp() {
 //   console.log("Azizbek, Welcome to Webbrain");
 // }
 // getAvr()
 
 //==================function declaration 
-// const getAvr = function () {
+// const funDec = function () {
 //   console.log("Azizbek, Welcome to Webbrain");
 // };
 // getAvr(); // Argument
 
 //==================Arrow function
-// const getAvr =()=>{}
+// const arrowFunc =()=>{};
+// const arrowFunc =()=> 'hey';<--- return
 
 // let name = 'webbrain'
 
