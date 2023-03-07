@@ -17,6 +17,7 @@
 // function getAvr() {
 //   console.log("Azizbek, Welcome to Webbrain");
 // }
+// getAvr()
 
 //==================function declaration 
 // const getAvr = function () {
@@ -29,7 +30,7 @@
 
 // let name = 'webbrain'
 
-// const getAvr = function (name, surname, age) {
+// const getAvr = function (name,surname, age) {
 //   console.log(`Name: ${name}`);
 //   console.log(`Surname: ${surname}`);
 //   console.log(`Age: ${age}`);
@@ -39,6 +40,7 @@
 // getAvr();
 // getAvr("Najmiddin", "Nazarov", 20);
 // getAvr("Iqboljon", "Iqboljon F", 20);
+// getAvr("Asilbek", "Asilbek F", 20);
 // getAvr("Asilbek", "Asilbek F", 20);
 
 // const telegram = (name, surname = "") => {
