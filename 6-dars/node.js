@@ -28,7 +28,7 @@
 
 // console.log(ac2);
 
-// const ac2 = structuredClone(ac1);
+// const ac2 = structuredClone(ac1);// link alohida qiladi
 // ac1.name = "rteta";
 // console.log(ac2);
 
@@ -43,7 +43,7 @@
 // console.log(ac1);
 // console.log(ac3);
 
-// account = "ladjflajsdf";
+// account = "WebBrain";
 // Object.freeze(account);
 // Object.seal(account);
 // account.major = 2022;
